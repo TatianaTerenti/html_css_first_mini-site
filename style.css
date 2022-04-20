@@ -1,0 +1,32 @@
+body {font-family: 'DM Serif Display', serif;
+    background: lightgrey;
+
+    }
+    header, #early_life {
+        font-size: 48px;
+        text-shadow: 3px 3px grey;
+        border: 3px double black;
+        border-radius: 40px 10px;
+        margin: 20px;
+        text-align: center;
+        background: rgb(240, 240, 240);
+    }
+    nav {
+        font-size: 20px;
+        display: inline-block;
+        border: 3px double black;
+        border-radius: 40px 10px;
+        width: 15%;
+        vertical-align: top;
+        margin: 10px 10px 10px 20px;
+        background: rgb(240, 240, 240);
+    }
+    article {
+        display: inline-block;
+        width: 75%;
+        margin: 10px 20px 10px 9px;
+        background: rgb(240, 240, 240);
+        border: 3px double black;
+        border-radius: 40px 10px;
+        padding: 30px;
+    }
